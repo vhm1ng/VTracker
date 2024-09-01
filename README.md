@@ -91,4 +91,10 @@
 > [!WARNING]
 > By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
 
+### Language Translation
+-   [English](https://github.com/vhm1ng/VTracker/blob/main/README.md)
+-   [Vietnam](https://github.com/vhm1ng/VTracker/blob/main/README_vn.md)
+-   [China](https://github.com/vhm1ng/VTracker/blob/main/README_zh.md)
+
+
 <a href=#top>Back to Top</a></p>

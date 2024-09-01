@@ -91,4 +91,9 @@
 > [!WARNING]
 > Bằng cách tải xuống, bạn đồng ý với giấy phép Commons Clause và không được phép bán kho lưu trữ này hoặc bất kỳ mã nào từ kho lưu trữ này. Để biết thêm thông tin, xem https://commonsclause.com/.
 
+### Bản dịch ngôn ngữ
+-   [Tiếng Việt](https://github.com/vhm1ng/VTracker/blob/main/README_vn.md)
+-   [Tiếng Anh](https://github.com/vhm1ng/VTracker/blob/main/README.md)
+-   [Tiếng Trung](https://github.com/vhm1ng/VTracker/blob/main/README_zh.md)
+
 <a href=#top>Quay lại đầu trang</a>

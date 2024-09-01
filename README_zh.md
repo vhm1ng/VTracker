@@ -91,4 +91,9 @@
 > [!WARNING]
 > 下载即表示你同意 Commons Clause 许可协议，并且你不得出售该仓库或该仓库中的任何代码。有关更多信息，请参见 https://commonsclause.com/.
 
+### 语言翻译
+-   [中文](https://github.com/vhm1ng/VTracker/blob/main/README_zh.md)
+-   [英语](https://github.com/vhm1ng/VTracker/blob/main/README.md)
+-   [越南语](https://github.com/vhm1ng/VTracker/blob/main/README_vn.md)
+
 <a href=#top>返回顶部</a>
